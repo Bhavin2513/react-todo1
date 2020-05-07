@@ -1,0 +1,15 @@
+.container{
+    padding:0, 3px;
+}
+
+.btn{
+    display: inline-block;
+    background: #555;
+    border: none;
+    color: aliceblue;
+    padding: 8px 20px;
+}
+
+.btn:hover{
+    background: #666;
+}
